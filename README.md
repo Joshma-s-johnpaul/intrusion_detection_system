@@ -32,3 +32,4 @@ The system operates as a distributed pipeline:
 ├── rf_model.pkl         # Pre-trained Random Forest model
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
+.
